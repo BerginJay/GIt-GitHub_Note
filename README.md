@@ -69,7 +69,7 @@ git commit -m 'commit message' fileName
 ```
 git log 
 git reflog  #常用
-git log --greph #图形显示,更直观
+git log --graph #图形显示,更直观
 git log --pretty=oneline #漂亮一行显示
 git log --oneline #简洁显示
 说明：HEAD@{移动到当前版本需要多少步}
